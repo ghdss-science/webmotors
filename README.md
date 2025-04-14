@@ -48,6 +48,8 @@ Parte 2
 
 -[sqlite 3](https://pandas.pydata.org/) 
 
+-[Scikit Learn](https://scikit-learn.org/stable/)
+
 ## Baixar e visualizar o Projeto via Python
 
 ```bash
